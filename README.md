@@ -1,6 +1,6 @@
 # Awesome OpenTelemetry Side Projects
 
-A curated list of awesome OpenTelemetry-related side projects and tools discovered from GitHub stars.
+A curated list of awesome OpenTelemetry-related side projects and tools.
 
 ## Contents
 
@@ -8,8 +8,6 @@ A curated list of awesome OpenTelemetry-related side projects and tools discover
 - [pavolloffay/opentelemetry-collector-config-schema](https://github.com/pavolloffay/opentelemetry-collector-config-schema) - OpenTelemetry collector config schema in JSON
 
 ### Instrumentation & Extensions
-- [aspecto-io/opentelemetry-ext-js](https://github.com/aspecto-io/opentelemetry-ext-js) - js extensions for the open-telemetry project
-- [aspecto-io/opentelemetry-ext-ruby](https://github.com/aspecto-io/opentelemetry-ext-ruby) - ruby extensions for the open-telemetry project
 - [justindsmith/opentelemetry-instrumentations-js](https://github.com/justindsmith/opentelemetry-instrumentations-js)
 
 ### MCP (Model Context Protocol) Integration
@@ -28,18 +26,15 @@ A curated list of awesome OpenTelemetry-related side projects and tools discover
 - [cyrille-leclerc/opentelemetry-service-dashboard](https://github.com/cyrille-leclerc/opentelemetry-service-dashboard) - Grafana dashboard for OpenTelemetry services
 
 ### Testing & Development Tools
-- [aspecto-io/otelij](https://github.com/aspecto-io/otelij) - open telemetry generator (traces, metrics, logs)
 - [wbollock/otel_upgrade_helper](https://github.com/wbollock/otel_upgrade_helper) - Website to help operators read release notes and compare across otel collector versions
 
 ### Integrations & Receivers
 - [Marcinthecloud/otel-to-pipelines](https://github.com/Marcinthecloud/otel-to-pipelines) - A sample Cloudflare Worker that acts as an OTLP receiver and sends it to Cloudflare Pipelines
 - [theletterf/otel-sonifier](https://github.com/theletterf/otel-sonifier) - Calm monitoring extension for the OpenTelemetry Collector
 
-### Tracing Platforms
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-
 ### Analysis & Quality Tools
 - [wbollock/good_telemetry](https://github.com/wbollock/good_telemetry) - LLM analysis of whether your telemetry is "good" or not!
+- [polyfloyd/go-opentelemetry-lint](https://codeberg.org/polyfloyd/go-opentelemetry-lint) - Golang linter to find and automatically fix issues with OpenTelemetry spans
 
 ## Contributing
 
