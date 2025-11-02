@@ -48,7 +48,7 @@ A curated list of awesome OpenTelemetry-related side projects and tools.
 
 ### Analysis & Quality Tools
 - [openlit/openlit](https://github.com/openlit/openlit) - Open-source AI engineering platform with built-in OpenTelemetry observability for LLMs, GPUs, etc.; provides GPU monitoring and LLM telemetry integrated with OTel
-- [polyfloyd/go-opentelemetry-lint](https://codeberg.org/polyfloyd/go-opentelemetry-lint) - Golang linter for OpenTelemetry: detects missing spans and other misuses of the OTel API to help enforce best practices
+- [polyfloyd/go-opentelemetry-lint](https://codeberg.org/polyfloyd/go-opentelemetry-lint) - Golang linter to find and automatically fix issues with OpenTelemetry spans
 - [wbollock/good_telemetry](https://github.com/wbollock/good_telemetry) - LLM analysis of whether your telemetry is "good" or not!
 
 ## Contributing
